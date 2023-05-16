@@ -8,6 +8,18 @@
 - 💬 Ask me about WebGIS and MobileGIS.
 - 📫 How to reach me: ali.mahdian@hotmail.com
 
+---
+
+### :man_technologist: About Me :
+Web and Mobile GIS Developer with unique blend of skills, knowledge and experience and more than 7 years of management and operational experience on the GIS opensource projects. Also I can help in below issues:
+
+* Software architecture and technical lead of the GIS projects
+* Design and implementation of Web GIS projects
+* Design and implementation of Mobile GIS projects
+* Design spatial database
+
+Telegram: +989102892115
+
 <!--
 **AliMahdianGIS/AliMahdianGIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
