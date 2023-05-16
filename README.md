@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭🛠 I’m currently working on WebGIS projects
+- 🔭🛠 I’m currently working on WebGIS and MobileGIS projects
 - 🌱 I’m currently learning AI(Artificial Intelligence)
 - 👯  I’m looking to collaborate with other programmers and GIS developers.
 - 💬 Ask me about WebGIS and MobileGIS.
