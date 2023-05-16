@@ -11,14 +11,14 @@
 ---
 
 ### :man_technologist: About Me :
-Web and Mobile GIS Developer with unique blend of skills, knowledge and experience and more than 7 years of management and operational experience on the GIS opensource projects. Also I can help in below issues:
+Web and Mobile GIS Developer with a unique blend of skills, knowledge, and experience. I have more than 7 years of management and operational experience on GIS open-source projects. I can also help with the following issues:
 
-* Software architecture and technical lead of the GIS projects
+* Software architecture and technical lead of GIS projects
 * Design and implementation of Web GIS projects
 * Design and implementation of Mobile GIS projects
-* Design spatial database
+* Design of spatial databases
 
-Telegram: +989102892115
+Whatsapp: +989102892115
 
 <!--
 **AliMahdianGIS/AliMahdianGIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
