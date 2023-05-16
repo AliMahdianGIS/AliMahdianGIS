@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭🛠 I’m currently working on WebGIS projects
+- 🌱 I’m currently learning AI(Artificial Intelligence)
+- 👯  I’m looking to collaborate with other programmers and GIS developers.
+- 💬 Ask me about WebGIS and MobileGIS.
+- 📫 How to reach me: ali.mahdian@hotmail.com
+
 <!--
 **AliMahdianGIS/AliMahdianGIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
