@@ -1,22 +1,22 @@
 ### Hi there 👋
 
-- 🛠 I’m currently working on WebGIS and MobileGIS projects
-- 🌎🌍🌍 I’m working with these spatial tools: PostGIS, Geoserver, GeoDjango, Openlayers, Mapsforge VTM and etc
+- 🛠 Executed projects and time-consuming geoprocessing tasks that reduced completion time from days to just a few seconds
+- 🌎🌍🌍 Currently, I utilize spatial tools such as PostGIS, Geoserver, GeoDjango, OpenLayers, Mapsforge VTM, and more.
 
-- 🌱 I’m currently learning AI(Artificial Intelligence)
-- 👯  I’m looking to collaborate with other programmers and GIS developers.
-- 💬 Ask me about WebGIS and MobileGIS.
-- 📫 How to reach me: ali.mahdian@hotmail.com
+- 🌱 Currently diving into the realm of Artificial Intelligence.
+- 👯 Open to collaborating with fellow programmers and GIS developers.
+- 💬 Feel free to inquire about anything related to WebGIS and MobileGIS.
+- 📫 Reach out to me at ali.mahdian@hotmail.com.
 
 ---
 
 ### :man_technologist: About Me :
-Web and Mobile GIS Developer with a unique blend of skills, knowledge, and experience. I have more than 7 years of management and operational experience on GIS open-source projects. I can also help with the following issues:
+Experienced Web and Mobile GIS Developer offering a unique fusion of skills, expertise, and over 7 years of management and operational proficiency in GIS open-source projects. Capable of providing assistance in the following areas:
 
-* Software architecture and technical lead of GIS projects
-* Design and implementation of Web GIS projects
-* Design and implementation of Mobile GIS projects
-* Design of spatial databases
+Steering software architecture and serving as the technical lead for GIS projects.
+Executing designs for Web GIS projects.
+Executing designs for Mobile GIS projects.
+Developing spatial databases
 
 Whatsapp: +989102892115
 
